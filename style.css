@@ -1,0 +1,12 @@
+* {
+    background-color: black;
+    color: white;
+}
+
+a {
+    color: rgb(134, 206, 227);
+}
+
+ul {
+    list-style-type: square;
+}
